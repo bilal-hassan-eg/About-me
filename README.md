@@ -15,7 +15,7 @@
   <a href="https://github.com/bilal-micro?tab=stars"> <img Followers" src="https://img.shields.io/github/stars/bilal-micro?color=red&logo=github" height="40" > </a> </p>
  
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Plus+22K+LinkedIn+Followers+❤️✨" /> </h2>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Develeoper+From+A+to+Z+❤️✨" /> </h2>
  
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/bilal-micro"><img src="https://img.shields.io/badge/-LinkedIn-0060A0?style=for-the-badge&logo=Linkedin&logoColor=white" height="50" > </img> </a>
