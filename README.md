@@ -18,9 +18,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Develeoper+From+A+to+Z+❤️✨" /> </h2>
  
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/bilal-micro"><img src="https://img.shields.io/badge/-LinkedIn-0060A0?style=for-the-badge&logo=Linkedin&logoColor=white" height="50" > </img> </a>
-  <a target="_blank" href="mailto:7hemeda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-800000?style=for-the-badge&logo=Gmail&logoColor=white" height="50" > </img> </a>
-  <a target="_blank" href="https://www.google.com.eg/search?q=ahmed+hemeda"><img src="https://img.shields.io/badge/-Google-00A060?style=for-the-badge&logo=Google&logoColor=white" height="50" > </img> </a> </p>
+  <a target="_blank" href="https://www.linkedin.com/in/bilal-hassan-8565ba191"><img src="https://img.shields.io/badge/-LinkedIn-0060A0?style=for-the-badge&logo=Linkedin&logoColor=white" height="50" > </img> </a>
+  <a target="_blank" href="mailto:rhsan1565@gmail.com"><img src="https://img.shields.io/badge/-Gmail-800000?style=for-the-badge&logo=Gmail&logoColor=white" height="50" > </img> </a>
 <br/>
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50"/> </a>
